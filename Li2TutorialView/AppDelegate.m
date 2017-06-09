@@ -1,10 +1,4 @@
-//
-//  AppDelegate.m
-//  Li2TutorialView
-//
-//  Created by Thamil Selvan V on 22/02/16.
-//
-//
+
 
 #import "AppDelegate.h"
 
