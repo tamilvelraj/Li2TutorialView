@@ -1,10 +1,3 @@
-//
-//  TutorialScreenView.h
-//  zohoforms
-//
-//  Created by ZOHOCORP\thamil-1041 on 02/08/13.
-//  Copyright (c) 2013 zohocorp. All rights reserved.
-//
 
 #import <UIKit/UIKit.h>
 
